@@ -1,0 +1,58 @@
+{
+  "font_paths": {
+    "arial": "C:/Windows/Fonts/arial.ttf"
+  },
+  "fonts": {
+    "default": {
+      "name": "arial",
+      "point_size": 14,
+      "style": "regular"
+    },
+    "arial_bold_14": {
+      "name": "arial",
+      "point_size": 14,
+      "style": "bold"
+    }
+  },
+  "text": {
+    "default": {
+      "font": "default"
+    }
+  },
+  "label": {
+    "default": {
+      "font": "default"
+    },
+    "#turn_label": {
+      "font": "default",
+      "background_color": "#FFFFFF",
+      "text_color": "#000000",
+      "padding": "5",
+      "border_width": 1,
+      "border_color": "#000000"
+    }
+  },
+  "text_box": {
+    "default": {
+      "font": "default"
+    },
+    "arial_bold_14": {
+      "font": "arial_bold_14"
+    }
+  },
+  "button": {
+    "default": {
+      "font": "default",
+      "normal_bg": "#FF0000",
+      "hovered_bg": "#00FF00",
+      "active_bg": "#0000FF",
+      "text_color": "#FFFFFF",
+      "border_color": "#000000",
+      "border_width": 1,
+      "shape": "rectangle",
+      "shadow_width": 0,
+      "tool_tip_delay": 0.5
+    }
+  }
+}
+

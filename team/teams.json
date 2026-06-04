@@ -1,0 +1,293 @@
+[
+  {
+    "team_name": "Alpha Squad",
+    "units": [
+      {
+        "name": "Captain Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 14
+        },
+        "weapons": [
+          {
+            "name": "Plasma Pistol",
+            "type": "Shooting",
+            "attack": 4,
+            "hit": 3,
+            "damage": 5,
+            "crit_damage": 5,
+            "range": "8\""
+          },
+          {
+            "name": "Power Fist",
+            "type": "Melee",
+            "attack": 4,
+            "hit": 4,
+            "damage": 5,
+            "crit_damage": 6
+          }
+        ]
+      },
+      {
+        "name": "Lieutenant Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 13
+        },
+        "weapons": [
+          {
+            "name": "Bolt Pistol",
+            "type": "Shooting",
+            "attack": 4,
+            "hit": 3,
+            "damage": 2,
+            "crit_damage": 4,
+            "range": "12\""
+          },
+          {
+            "name": "Chainsword",
+            "type": "Melee",
+            "attack": 4,
+            "hit": 4,
+            "damage": 3,
+            "crit_damage": 4
+          }
+        ]
+      },
+      {
+        "name": "Tactical Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 12
+        },
+        "weapons": [
+          {
+            "name": "Bolt Rifle",
+            "type": "Shooting",
+            "attack": 4,
+            "hit": 3,
+            "damage": 3,
+            "crit_damage": 4,
+            "range": "15\""
+          },
+          {
+            "name": "Combat Knife",
+            "type": "Melee",
+            "attack": 3,
+            "hit": 3,
+            "damage": 2,
+            "crit_damage": 3
+          }
+        ]
+      },
+      {
+        "name": "Assault Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 12
+        },
+        "weapons": [
+          {
+            "name": "Bolt Pistol",
+            "type": "Shooting",
+            "attack": 3,
+            "hit": 3,
+            "damage": 2,
+            "crit_damage": 4,
+            "range": "12\""
+          },
+          {
+            "name": "Chainsword",
+            "type": "Melee",
+            "attack": 4,
+            "hit": 4,
+            "damage": 3,
+            "crit_damage": 4
+          }
+        ]
+      },
+      {
+        "name": "Devastator Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 13
+        },
+        "weapons": [
+          {
+            "name": "Lascannon",
+            "type": "Shooting",
+            "attack": 2,
+            "hit": 4,
+            "damage": 6,
+            "crit_damage": 7,
+            "range": "20\""
+          },
+          {
+            "name": "Combat Knife",
+            "type": "Melee",
+            "attack": 2,
+            "hit": 4,
+            "damage": 1,
+            "crit_damage": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "team_name": "Beta Squad",
+    "units": [
+      {
+        "name": "Veteran Sergeant",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 14
+        },
+        "weapons": [
+          {
+            "name": "Bolt Pistol",
+            "type": "Shooting",
+            "attack": 3,
+            "hit": 3,
+            "damage": 2,
+            "crit_damage": 4,
+            "range": "12\""
+          },
+          {
+            "name": "Power Sword",
+            "type": "Melee",
+            "attack": 4,
+            "hit": 3,
+            "damage": 4,
+            "crit_damage": 5
+          }
+        ]
+      },
+      {
+        "name": "Tactical Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 12
+        },
+        "weapons": [
+          {
+            "name": "Bolt Rifle",
+            "type": "Shooting",
+            "attack": 4,
+            "hit": 3,
+            "damage": 3,
+            "crit_damage": 4,
+            "range": "15\""
+          },
+          {
+            "name": "Combat Knife",
+            "type": "Melee",
+            "attack": 3,
+            "hit": 3,
+            "damage": 2,
+            "crit_damage": 3
+          }
+        ]
+      },
+      {
+        "name": "Assault Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 12
+        },
+        "weapons": [
+          {
+            "name": "Plasma Pistol",
+            "type": "Shooting",
+            "attack": 4,
+            "hit": 3,
+            "damage": 4,
+            "crit_damage": 5,
+            "range": "8\""
+          },
+          {
+            "name": "Chainsword",
+            "type": "Melee",
+            "attack": 4,
+            "hit": 4,
+            "damage": 3,
+            "crit_damage": 4
+          }
+        ]
+      },
+      {
+        "name": "Devastator Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 6,
+          "save": 3,
+          "wounds": 13
+        },
+        "weapons": [
+          {
+            "name": "Missile Launcher",
+            "type": "Shooting",
+            "attack": 2,
+            "hit": 4,
+            "damage": 6,
+            "crit_damage": 7,
+            "range": "20\""
+          },
+          {
+            "name": "Combat Knife",
+            "type": "Melee",
+            "attack": 2,
+            "hit": 4,
+            "damage": 1,
+            "crit_damage": 2
+          }
+        ]
+      },
+      {
+        "name": "Scout Marine",
+        "personal_attributes": {
+          "apl": 2,
+          "move": 7,
+          "save": 4,
+          "wounds": 11
+        },
+        "weapons": [
+          {
+            "name": "Bolt Carbine",
+            "type": "Shooting",
+            "attack": 4,
+            "hit": 3,
+            "damage": 2,
+            "crit_damage": 3,
+            "range": "14\""
+          },
+          {
+            "name": "Combat Knife",
+            "type": "Melee",
+            "attack": 3,
+            "hit": 3,
+            "damage": 2,
+            "crit_damage": 3
+          }
+        ]
+      }
+    ]
+  }
+]
+
