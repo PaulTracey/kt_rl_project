@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# RL models/checkpoints
+models/
+checkpoints/
+
+# Environment files
+.env
